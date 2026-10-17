@@ -1,4 +1,1 @@
-instagrapi
-aiograpi
-requests
-playwright
+python-telegram-bot
