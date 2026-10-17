@@ -8,13 +8,13 @@ import logging
 # CONFIG
 # ---------------------------
 TOKENS = [
-    "token"
+    "8881406888:AAH3fSsCcAIl2GSUz1ziOEN4mYZSoLg80SI"
     
     
 
 ]
 
-OWNER_ID = 6028490642
+OWNER_ID = 1923347594
 SUDO_FILE = "sudo.json"
 
 # ---------------------------
